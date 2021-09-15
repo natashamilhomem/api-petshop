@@ -1,0 +1,12 @@
+{
+  "name": "api-petshop",
+  "version": "1.0.0",
+  "description": "curso api rest - petshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Natasha",
+  "license": "ISC"
+}
